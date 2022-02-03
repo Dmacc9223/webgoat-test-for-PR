@@ -135,6 +135,7 @@
         <thymeleaf.version>3.0.14.RELEASE</thymeleaf.version>
         <pmd.version>3.15.0</pmd.version>
         <checkstyle.version>3.1.2</checkstyle.version>
+        <sonar.projectKey>Dmacc9223_webgoat-test-for-PR</sonar.projectKey>
     </properties>
 
     <modules>
